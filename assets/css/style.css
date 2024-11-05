@@ -79,7 +79,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+main {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -98,7 +98,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -163,7 +163,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -190,7 +190,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
